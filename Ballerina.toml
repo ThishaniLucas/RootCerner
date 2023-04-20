@@ -1,0 +1,11 @@
+[package]
+org = "wso2healthcare"
+name = "RootCerner"
+version = "0.1.2"
+export = ["RootCerner"]
+distribution = "2201.3.1"
+authors = ["WSO2 Healthcare"]
+keywords = ["Healthcare","FHIR","Cerner"]
+
+[build-options]
+observabilityIncluded = true
