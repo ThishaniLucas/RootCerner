@@ -1,8 +1,7 @@
 [package]
 org = "wso2healthcare"
-name = "RootCerner"
+name = "Root.Cerner"
 version = "0.1.2"
-export = ["RootCerner"]
 distribution = "2201.3.1"
 authors = ["WSO2 Healthcare"]
 keywords = ["Healthcare","FHIR","Cerner"]
